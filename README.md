@@ -1,2 +1,0 @@
-# coursera
-cursos de paractica
